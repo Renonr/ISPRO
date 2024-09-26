@@ -59,5 +59,6 @@ int main(){
 
     cout << tr.getAngle1() << endl;
     cout << tr.getAngle2() << endl;
+
     return 0;
 }
